@@ -1,0 +1,25 @@
+{
+  "name": "@jacob/how_to_npm",
+  "version": "2.0.0",
+  "description": "how_to_npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jacob Kato",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jacobkato49/how-to-npm.git"
+  },
+  "keywords": [
+    "selfhelp"
+  ],
+  "bugs": {
+    "url": "https://github.com/jacobkato49/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/jacobkato49/how-to-npm#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
